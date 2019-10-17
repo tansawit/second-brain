@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Agile Methodology on My Second Brain</title>
+    <link>http://example.org/docs/topic/agile/</link>
+    <description>Recent content in Agile Methodology on My Second Brain</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/docs/topic/agile/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://example.org/docs/topic/agile/agile-best-practices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/docs/topic/agile/agile-best-practices/</guid>
+      <description>Agile Best Practices Sprint Planning How to ensure team has selected a group of stories to ensure delivering value to the company.
+Lock Requirements During a sprint or iteration no changes be made that would affect the sprint goal:
+Changes mid-sprint jeopardizes investments made into the work.
+ Planning/re-planning isn&amp;rsquo;t free The discarded work took time/resources  Increased Risk.
+ Other features might get derailed/not delivered  Time-Boxing The duration of each sprint should be short and consistent (usually between 2-4 weeks).</description>
+    </item>
+    
+  </channel>
+</rss>
