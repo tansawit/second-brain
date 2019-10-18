@@ -5,7 +5,7 @@ weight: 1
 # bookShowToC: true
 ---
 
-# Concepts - Life and Living
+# Concepts - Life and Experiences
 
 ## A Personal Canon
 
