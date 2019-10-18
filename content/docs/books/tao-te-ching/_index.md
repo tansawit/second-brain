@@ -12,7 +12,7 @@ weight: 1
 
 ## Review
 
-To quote a review I found on GoodReads: "This is just mindblowing." 
+To quote a review I found on Goodreads: "This is just mindblowing." 
 
 For such a small book, the idea it presents, and the way it is presented is absolutely unmatched. For a book so small, the essences contains within the words and its idea is unmeasurable. 
 
