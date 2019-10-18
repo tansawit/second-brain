@@ -8,6 +8,8 @@ weight: 1
 
 # Anything You Want - Derek Sivers
 
+*Read: October 2019* (✭✭✭✭✩)
+
 ## Review
 
 Really useful lessons for both entrepreneurs both current and aspiring, as well as anyone else. As someone who's recently started their career and started to feel the urge to always be working at all times, this book has really helped reframe the way I approach what I do and my mindset towards working in general.
