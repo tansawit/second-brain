@@ -1,8 +1,7 @@
 ---
 title: "Concepts"
-weight: 2
+weight: 5
 bookFlatSection: true
-bookCollapseSection: true
 # bookShowToC: true
 ---
 
