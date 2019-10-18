@@ -5,6 +5,6 @@ bookCollapseSection: true
 # bookShowToC: true
 ---
 
-# Blog Articles
+# Blogs - Articles
 
 ## Categories
