@@ -1,6 +1,7 @@
 ---
 title: "Books"
 weight: 2
+bookToC: 2
 bookFlatSection: true
 # bookShowToC: true
 ---
@@ -13,19 +14,10 @@ Here you'll find a collection of books that I've read, my review, as well as a s
 
 Those with ❋ are my favorites.
 
-## Anything You Want - Derek Sivers
+## Business & Entrepreneurship
 
-*Read: October 2019* (✭✭✭✭✩) [(Book)](https://amzn.to/32mguHI) [(Review & Notes)]({{<relref "/docs/books/anything-you-want">}})
+- Anything You Want - Derek Sivers (✭✭✭✭✩)
 
-> Never forget why you’re really doing what you’re doing. Are you helping people? Are they happy? Are you happy? Are you profitable? Isn’t that enough?
+## Philosophy
 
-Amazing life lessons for both entrepreneurs both current and aspiring, as well as anyone else. As someone who's recently started their career and started to feel the urge to always be working at all times, this book has really helped reframe the way I approach what I do and my mindset towards working in general. Various lessons for life, mindset, and business, explained through the author's personal experiences.
-
-## Tao Te Ching - Lao Tzu ❋
-
-*Read: October 2019* (✭✭✭✭✭) [(Book)](https://amzn.to/32qgbfd) [(Review & Notes)]({{<relref "/docs/books/tao-te-ching">}})
-
-> There is no greater sin than craving, No greater curse than discontent, No greater misfortune than wanting something for ourselves. Therefore those who know that enough is enough will always have enough.
-
-It has got to be one of the most perennially beguiling, elliptical things ever written. It is the one book that I’m sure that I’ll reread on and on: each time learning and understanding something new from it. For such a small book, the idea it presents, and the way it is presented is absolutely unmatched. For a book so small, the essences contains within the words and its idea is unmeasurable. To quote a review I found on Goodreads: “This is just mindblowing.”
-
+- Tao Te Ching - Lao Tzu (✭✭✭✭✭) ❋
