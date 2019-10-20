@@ -1,5 +1,5 @@
 ---
-title: "Blog Sites"
+title: "Blog - Sites"
 weight: 1
 # bookFlatSection: false
 # bookShowToC: true

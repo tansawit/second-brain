@@ -1,7 +1,8 @@
 ---
-title: "Podcast Series"
+title: "Podcast - Series"
 weight: 1
 BookToC: 3
+bookCollapseSection: True
 # bookFlatSection: false
 # bookShowToC: true
 ---
@@ -61,6 +62,10 @@ A changing list of podcasts that I enjoy listening to as well as others that I h
 -  The Kevin Rose Show: *Kevin Rose interviews and explores new ways to reach peak personal and professional performance*
 
 -  The Tim Ferris Show: *Interesting interviews focused on life improvement.*
+
+### Philosophy
+
+- Naval Podcast: *Podcast based on Naval Ravikant's __[tweetstorm](https://twitter.com/naval/status/1002103360646823936?lang=en)__ "How to Get Rich (without getting lucky)"*
 
 ### Photography
 

@@ -1,5 +1,5 @@
 ---
-title: "Blog Articles"
+title: "Blog - Articles"
 weight: 1
 bookCollapseSection: true
 # bookShowToC: true
@@ -8,3 +8,5 @@ bookCollapseSection: true
 # Blogs - Articles
 
 ## Categories
+
+{{<button>}}Business{{</button>}}
