@@ -1,5 +1,5 @@
 ---
-title: "Books - Business"
+title: "Business"
 weight: 2
 bookToC: 2
 bookCollapseSection: true

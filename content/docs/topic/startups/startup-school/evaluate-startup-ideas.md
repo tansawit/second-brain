@@ -13,19 +13,6 @@ weight: 1
 
 Original Videos : [Part 1](https://www.youtube.com/watch?v=DOtCl5PU8F0), [Part 2](https://www.youtube.com/watch?v=17XZGUX_9iM)
 
-Table of Contents
-
-- [How to Evaluate Your Startup Ideas](#how-to-evaluate-your-startup-ideas)
-  - [A Common Misconception about Investors](#a-common-misconception-about-investors)
-  - [Startup Ideas](#startup-ideas)
-    - [What constitute an idea?](#what-constitute-an-idea)
-    - [Beliefs](#beliefs)
-  - [Presenting Ideas to Investors](#presenting-ideas-to-investors)
-    - [Building a Pitch Deck](#building-a-pitch-deck)
-    - [Presenting the Idea](#presenting-the-idea)
-    - [Evaluating Investor Reactions:](#evaluating-investor-reactions)
-  - [Memorable Quotes](#memorable-quotes)
-
 ## A Common Misconception about Investors
 
 A (good) investor's job is not to figure out what's wrong with the company, but how it could possibly win.

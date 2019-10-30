@@ -1,7 +1,6 @@
 ---
 title: "Anything You Want - Derek Sivers"
 bookToC: 3
-weight: 1
 # bookFlatSection: false
 # bookShowToC: true
 ---
@@ -17,6 +16,7 @@ Really useful lessons for both entrepreneurs both current and aspiring, as well 
 ## Summary
 
 Various lessons for life, mindset, business, and entrepreneurship. All of this is explained through the Derek's personal anecdote of starting his previous company CD Baby. A different outlook on the mindset in which to approach starting a business, valuing whether you enjoy doing it above whether it makes a lot of money.
+
 
 ### Building a Business
 

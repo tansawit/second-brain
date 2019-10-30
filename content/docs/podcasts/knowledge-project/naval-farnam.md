@@ -1,5 +1,5 @@
 ---
-title: "Naval Farnam: The Angel Philosopher"
+title: "Naval Ravikant: The Angel Philosopher"
 weight: 1
 # bookFlatSection: false
 BookToC: 3

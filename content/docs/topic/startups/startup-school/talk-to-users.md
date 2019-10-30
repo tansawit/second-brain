@@ -46,6 +46,8 @@ Lessons from the book The Mom Test:
   - Opportunity to learn about your competitors
 - What don't you love about the solutions you've already tried?
 
+Note: Never ask users for features. It's not their job. It's yours. Their job is to give you problems.
+
 ### Three phases to conduct user interviews
 
 ##### 1. Idea Phase (find users with the problem)

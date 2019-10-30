@@ -1,6 +1,5 @@
 ---
 title: "Science & Technology"
-weight: 1
 # bookFlatSection: false
 # bookShowToC: true
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Agile Methodology"
-weight: 1
 bookCollapseSection: true
 ---
 # Topics Notes - Agile Methodology
