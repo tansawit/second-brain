@@ -83,5 +83,3 @@ Eccentricity is not necessarily a bad thing
 - Intrinsic to the human species
 - Not something invented, not something discovered
 - Innate in every exchange humans have (notion of exchange)
-
-## Freedom
