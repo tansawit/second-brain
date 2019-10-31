@@ -3,7 +3,7 @@ title: Home
 type: docs
 ---
 
-# My Second Brain
+# My Knowledge Store
 *Sawit Trisirisatayawong (tansawit)*
 
 ## Introduction
@@ -20,6 +20,9 @@ A recent University of Michigan graduate and now based in Bangkok, I develop cha
 
 I also occasionally consult to small and early/seed-stage startups, helping them refine their ideas and product implementations, develop their business models, and improve their understanding of their markets.
 
-In my spare time I like to analyse and visualize interesting datasets, watch movies, TV shows, and anime, read books, listen to music and podcasts, and take photos [(Instagram)](https://instagram.com/tansawit). 
+In my spare time I like to analyse and visualize interesting datasets, watch movies, TV shows, and anime, read books, listen to music and podcasts, and take photos [(Instagram)][1]. 
 
-More info about me can be found on my [main website](https://tansawit.me)
+More info about me can be found on my [main website][2]
+
+[1]:	https://instagram.com/tansawit
+[2]:	https://tansawit.me
