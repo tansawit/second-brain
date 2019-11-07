@@ -3,6 +3,7 @@ title: "How to Talk to Users"
 weight: 1
 # bookFlatSection: false
 # bookShowToC: true
+bookHidden: true
 ---
 # How to Talk to Users
 > Customers don't buy the what. They buy the why - (Eric Migicovsky) 

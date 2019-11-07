@@ -1,3 +1,6 @@
+---
+bookToC: 2
+---
 # Cryptographic Ciphers
 
 ## Caesar Ciphers

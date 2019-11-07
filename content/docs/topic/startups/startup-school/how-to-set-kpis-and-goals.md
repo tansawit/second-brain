@@ -4,6 +4,7 @@ weight: 3
 bookToC: 2
 # bookFlatSection: false
 # bookShowToC: true
+bookHidden: true
 ---
 
 # How to Set KPIs and Goals

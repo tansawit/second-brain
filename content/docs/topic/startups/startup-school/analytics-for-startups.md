@@ -1,5 +1,6 @@
 ---
 bookToC: 2
+bookHidden: true
 ---
 # Analytics for Startups
 

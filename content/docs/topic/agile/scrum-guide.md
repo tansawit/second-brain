@@ -1,3 +1,8 @@
+---
+title: The Scrum Guide
+bookToC: 2
+bookHidden: true
+---
 # The Scrum Guide
 
 ## Introduction

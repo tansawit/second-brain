@@ -1,3 +1,8 @@
+---
+title: Agile Best Practices
+bookToC: 2
+bookHidden: true
+---
 # Agile Best Practices
 
 ## Sprint Planning

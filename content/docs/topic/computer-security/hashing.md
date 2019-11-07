@@ -1,3 +1,6 @@
+---
+bookToC: 3
+---
 # Hashing
 
 ## Hash Functions

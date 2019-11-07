@@ -11,12 +11,33 @@ A (somewhat) structured bank of things I know on various topics.
 ## List of Topics
 
 ### A
-{{< button relref="docs/topic/agile" >}}Agile Methodology{{< /button >}}
+
+- [Agile Methodology]({{<relref "/docs/topic/agile">}})
 
 ### C
 
-{{< button relref="docs/topic/computer-security" >}}Computer Security{{< /button >}} {{< button relref="docs/topic/cryptography" >}}Cryptography{{< /button >}}
+- [Computer Science]({{<relref "/docs/topic/cs">}})
+- [Computer Security]({{<relref "/docs/topic/computer-security">}})
+- [Cryptography]({{<relref "/docs/topic/cryptography">}})
 
+### D
+
+- [Data Science]({{<relref "/docs/topic/data-science">}})
+- [Design]({{<relref "/docs/topic/design">}})
+
+### M
+
+- [macOS]({{<relref "/docs/topic/macos">}})
+
+### N
+
+- [Natural Language Processing (NLP)]({{<relref "/docs/topic/nlp">}})
+
+### P
+
+- [Programming]({{<relref "/docs/topic/programming">}})
+- [Programming Languages]({{<relref "/docs/topic/programming-languages">}})
 
 ### S
-{{< button relref="docs/topic/startups" >}}Startups{{< /button >}}
+
+- [Startups]({{<relref "/docs/topic/startups">}})

@@ -8,7 +8,7 @@ type: docs
 
 ## Introduction
 
-I have come to realize that there is two feelings that I hate when it come to learning and information: forgetting something you definitely knew, and not remembering valuable resources.
+I have come to realize that there is two feelings that I hate when it come to learning and information: forgetting something I definitely knew, and not remembering valuable resources.
 
 Thus, I’ve been trying to restructure and reorganize the way I interact and consume information. This will not only ensure that I can find the things I need most the time, but also forces me to express whatever I’m jotting down in my on words, hopefully assisting with retention.
 
@@ -20,7 +20,7 @@ A recent University of Michigan graduate and now based in Bangkok, I develop cha
 
 I also occasionally consult to small and early/seed-stage startups, helping them refine their ideas and product implementations, develop their business models, and improve their understanding of their markets.
 
-In my spare time I like to analyse and visualize interesting datasets, watch movies, TV shows, and anime, read books, listen to music and podcasts, and take photos [(Instagram)][1]. 
+In my spare time I like to analyse and visualize interesting datasets, watch movies, TV shows, and anime, read books, listen to music and podcasts, and take photos [Instagram][1]. 
 
 More info about me can be found on my [main website][2]
 
