@@ -1,5 +1,6 @@
 ---
 title: Generative Adversarial Networks Course (Google)
+bookHidden: true
 ---
 
 # Google's Generative Advesarial Networks Course
