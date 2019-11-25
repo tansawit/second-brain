@@ -1,4 +1,5 @@
 ---
+title: "Gestalt Principle"
 bookToC: 2
 bookHidden: true
 ---

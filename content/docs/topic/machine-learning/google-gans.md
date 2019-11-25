@@ -1,5 +1,5 @@
 ---
-title: Generative Adversarial Networks Course (Google)
+title: "Generative Adversarial Networks Course (Google)"
 bookHidden: true
 ---
 

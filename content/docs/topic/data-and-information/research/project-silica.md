@@ -1,6 +1,5 @@
 ---
-title: Project Silica
-bookHidden: true
+title: "Project Silica"
 ---
 # Project Silica
 

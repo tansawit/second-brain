@@ -1,4 +1,5 @@
 ---
+title: "Analytics for Startups"
 bookToC: 2
 bookHidden: true
 ---

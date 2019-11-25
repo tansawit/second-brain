@@ -1,7 +1,7 @@
 ---
+title: "Topic Notes"
 weight: 1
 bookFlatSection: true
-title: "Topic Notes"
 ---
 
 # Topic Notes

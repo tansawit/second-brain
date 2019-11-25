@@ -1,5 +1,5 @@
 ---
-title: Data Science
+title: "Data Science"
 ---
 
 # Data Science
