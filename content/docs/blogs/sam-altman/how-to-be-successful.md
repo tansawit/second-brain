@@ -15,7 +15,7 @@ Usually people starts out wanting to make huge amounts of money but end up later
 
 While these are easier after having already reached a baseline degree of success (through privilege or efforts), it applies to anyone.
 
-### 1. Compound Yourself
+## Compound Yourself
 
 >Trust the exponential, be patient, and be pleasantly surprised.
 
@@ -41,19 +41,19 @@ Be willing to let small opportunities go to focus on potential step changes.
 
 The biggest competitive advantage in business is long-term thinking with a broad view of how different systems in the world are going to come together.
 
-### 2. Have almost too much self-belief
+## Have almost too much self-belief
 
 If you don’t believe in yourself, it’s hard to let yourself have contrarian ideas about the future. But this is where most value gets created.
 
 This must be balanced with self-awareness. **Truthseeking is hard and painful, but it's what separates self-belief from self-delusion**
 
-### 3. Learn to think independently
+## Learn to think independently
 
 “I will fail many times, and I will be really right once” is the entrepreneurs’ way.
 
 One of the most powerful lessons to learn is that you can figure out what to do in situations that seem to have no solution. The more you do this, the more you believe in it.
 
-### 4. Get good at "sales"
+## Get good at "sales"
 
 Self-belief alone is not sufficient—you also have to be able to convince other people of what you believe.
 
@@ -61,7 +61,7 @@ The best way to get good at sales is to genuinely believe in the item you're try
 
 Show up in person whenever it's important
 
-### 5. Make it easy to take risks
+## Make it easy to take risks
 
 Most people overestimate risk and underestimate reward.
 
@@ -69,13 +69,13 @@ Look for small bets where you lose 1x if you're wrong but make 100x if it works.
 
 Don't save up for too long. It's easy and our nature to prioritize short-term rewards over long-term fulfillment.
 
-### 6. Focus
+## Focus
 
 Focus is a force multiplier on work.
 
 It's more important to work on the right thing than to work many hours.
 
-### 7. Work hard
+## Work hard
 
 Extreme people get extreme results.
 
@@ -86,13 +86,13 @@ Do it early, at the beginning of your career. The earlier you do it, the longer 
 Figure out how to work hard without burning out. Find work you like doing with people you enjoy spending a lot time with.
 
 
-### 8. Be bold
+## Be bold
 
 Follow your curiosity. Things that seem exciting to you will often seem exciting to other people too. 
 
 If you are making progress on an important problem, you will have a constant tailwind of people wanting to help you.
 
-### 9. Be willful
+## Be willful
 
 > A big secret is that you can bend the world to your will a surprising percentage of the time—most people don’t even try
 
@@ -100,7 +100,7 @@ Ask for what you want. Those who persevere go on to succeed.
 
 Be optimistic.
 
-### 10. Be hard to compete with
+## Be hard to compete with
 
 > If what you do can be done by someone else, it eventually will be, and for less money.
 
@@ -108,7 +108,7 @@ Build up leverage. Build a strong personal brand. Get good at the intersection o
 
 It is a mistake to do what most people they hang out with do.
 
-### 11. Build a network
+## Build a network
 
 Develop a network of talented people to work with. 
 
@@ -126,13 +126,13 @@ Define yourself by your strength, not your weaknesses. Acknowledge the weaknesse
 
 Finally, spend your time with positive people who support your ambitions.
 
-### 12. You get rich by owning things
+## You get rich by owning things
 
 In most cases, you don't get rich by having a high salaries, you get there by owning things that rapidly increase in value (e.g. businesses, properties, resources).
 
 The best way to make things that increase rapidly in value is by making things people want at scale
 
-### 13. Be internally driven
+## Be internally driven
 
 Don't do what you do to impress people. Two important reasons:
 
