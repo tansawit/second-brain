@@ -42,7 +42,7 @@ One or more nodes in a cluster acts as replicas for a given piece of data. If a 
 - **SSTable**: A disk to which the data is flushed from the mem-table when its content reach a threshold valu 
 - **Bloomer filter**: Quick, non-deterministic algorithms to test whether an element is a member of a set (a special kind of cache). Bloom accessed are accessed after every query
 
-### Cassandra Query Language 
+### Cassandra Query Language
 
 Users access Cassandra through its nodes using the [Cassandra Query Language](http://cassandra.apache.org/doc/latest/cql/) (CQL). The language treats the database, or keyspace, as a container of tables. Developers use [cqlsh](http://cassandra.apache.org/doc/latest/tools/cqlsh.html) a prompt to work with CQL or separate application language drivers.
 

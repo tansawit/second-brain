@@ -1,5 +1,5 @@
 ---
-title: Computer Science
+title: "Computer Science"
 ---
 # Computer Science
 
