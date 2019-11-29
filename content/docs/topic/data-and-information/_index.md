@@ -1,5 +1,6 @@
 ---
 title: "Data and Information"
+bookCollapseSection: true
 ---
 
 # Data and Information

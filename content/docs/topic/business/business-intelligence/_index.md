@@ -1,8 +1,13 @@
 ---
 title: "Business Intelligence"
+bookCollapseSection: true
 ---
 
 # Business Intelligence
+
+## Related Pages
+
+- [Python]({{<relref "/docs/topic/programming-languages/python">}})
 
 ## Resources
 
@@ -11,6 +16,6 @@ title: "Business Intelligence"
 
 ## Tools
 
-- [Tableau](tableau.com)
-- [PowerBI](https://powerbi.microsoft.com/en-us/)
-- [Microsoft Excel](https://office.live.com/start/Excel.aspx)
+- [Tableau Website](tableau.com)
+- [PowerBI Website](https://powerbi.microsoft.com/en-us/)
+- [Microsoft Excel Online](https://office.live.com/start/Excel.aspx)

@@ -1,80 +1,10 @@
 ---
-title: "Algorithms"
-bookHidden: true
+title: "Sorting Algorithms"
 ---
 
-# Algorithms
+# Sorting Algorithms
 
-## Searching
-
-### Linear Search
-
-#### Introduction
-
-The algorithm of choice for short lists as it is simple and requires minimal coding. It simply iterates through the list, checking if each element is the target.If the targeted element is found, the algorithm finishes.
-
-However, it is rarely used in practice as other algorithms allow for significantly faster speed compared to it.
-
-**Implementation**
-
-```python
-def linear_search(arr, x):
-    for i in range(len(arr)):
-        if arr[i] == x:
-            return i
-    return -1
-```
-
-**Time Complexity**
-
-<img src="https://latex.codecogs.com/svg.latex?O(n)">
-
-### Binary Search
-
-#### Introduction
-
-The Binary Search is one of the most widely used algoirthms. The algorithms works on an ordered collection of elements.
-
-The algorithm starts at the middle of the database. If the target number is greater than the middle number, the search will continue with the upper half of the database, else it will continue with the lower half. It continues this process, cutting the data in half until it finds the target record
-
-3 main sections:
-
-- Pre-processing - Sort collection (if needed)
-- Binary Search - Use loop or recursion to divide the current search space in half after each comparison
-- Post-processing - Determine viable candidates in the remaining space
-
-**Implementation**
-
-```python
-def binary_search(arr, l, r, x):
-    # Base case
-    if r >= 1:
-        mid = l + (r - 1) / 2
-
-        # If element is present at the middle
-        if arr[mid] == x:
-            return mid
-
-        # If element is smaller than mid, check left-array
-        elif arr[mid] > x:
-            return binary_search(arr, l, mid-1, x)
-        
-        # Else the element can only be present in the right-array
-        else:
-            return binary_search(arr, mid+1, r, x)
-     
-     else:
-        # Element is not present in array
-        return -1
-```
-
-#### Time Complexity
-
-<img src="https://latex.codecogs.com/svg.latex?O(log(n))">
-
-## Sorting
-
-### Selection Sort
+## Selection Sort
 
 Type: in-place
 
@@ -104,7 +34,7 @@ def selection_sot(A):
 
 <img src="https://latex.codecogs.com/svg.latex?O(1)">
 
-### Bubble Sort
+## Bubble Sort
 
 Type: in-place
 
@@ -194,13 +124,15 @@ Depends (see each implementation).
 
 <img src="https://latex.codecogs.com/svg.latex? O(1)">
 
-### Insertion Sort
+## Insertion Sort
 
 Type: in-place
 
 An algorithm that works similarly to the way playing cards are sorted.
 
 **Implementation**
+
+*Standard Implementation*
 
 ```python
 def insertionSort(arr): 
@@ -220,8 +152,90 @@ def insertionSort(arr):
         arr[j + 1] = key 
 ```
 
+*Recursive Implementation*
+
+Idea:
+
+- Base Case: If array size is 1 or smaller, return.
+- Recursively sort the first n-1 elements
+- Insert last element at its correct position in sorted array
+
+```python
+def insertion_sort_recursive(arr,n): 
+    # base case 
+    if n<=1: 
+        return
+      
+    # Sort first n-1 elements 
+    insertionSortRecursive(arr,n-1) 
+    '''Insert last element at its correct position 
+        in sorted array.'''
+    last = arr[n-1] 
+    j = n-2
+      
+      # Move elements of arr[0..i-1], that are 
+      # greater than key, to one position ahead 
+      # of their current position  
+    while (j>=0 and arr[j]>last): 
+        arr[j+1] = arr[j] 
+        j = j-1
+  
+    arr[j+1]=last
+```
+
 **Time Complexity**
 <img src="https://latex.codecogs.com/svg.latex?O(n^2)">
 
 **Space Complexity**
 <img src="https://latex.codecogs.com/svg.latex?O(1)">
+
+## Merge Sort
+
+Type: not in-place
+
+A divide-and-conquer sorting algorithm. It divides input into two haves, call itself on the two halves, then merges the two sorted halves. 
+
+The merge(arr, l, m, r) is the key process that assumes that arr[l..m]and arr[m+1..r] are sorted and merge the two sorted sub-array.
+
+**Implmentation**
+```python
+def mergeSort(arr): 
+    if len(arr) >1: 
+        mid = len(arr)//2 #Finding the mid of the array 
+        L = arr[:mid] # Dividing the array elements  
+        R = arr[mid:] # into 2 halves 
+  
+        mergeSort(L) # Sorting the first half 
+        mergeSort(R) # Sorting the second half 
+  
+        i = j = k = 0
+          
+        # Copy data to temp arrays L[] and R[] 
+        while i < len(L) and j < len(R): 
+            if L[i] < R[j]: 
+                arr[k] = L[i] 
+                i+=1
+            else: 
+                arr[k] = R[j] 
+                j+=1
+            k+=1
+          
+        # Checking if any element was left 
+        while i < len(L): 
+            arr[k] = L[i] 
+            i+=1
+            k+=1
+          
+        while j < len(R): 
+            arr[k] = R[j] 
+            j+=1
+            k+=1
+```
+
+**Time Complexity**
+<img src="https://latex.codecogs.com/svg.latex?O(nlogn)">
+
+**Space Complexity**
+<img src="https://latex.codecogs.com/svg.latex?O(n)">
+
+## Quick Sort

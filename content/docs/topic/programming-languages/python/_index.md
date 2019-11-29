@@ -74,3 +74,8 @@ cheapest = map(min, store1, store2)
 
 - [datetime]({{<relref "/docs/topic/programming-languages/python/libraries/datetime.md">}}): working with date, time, and durration
 - [numpy]({{<relref "/docs/topic/programming-languages/python/libraries/numpy.md">}}): add support for multi-dimensional arrays and linear algebra
+
+
+## Related Pages
+
+- [Business Intelligence]({{<relref "/docs/topic/business/business-intelligence">}})

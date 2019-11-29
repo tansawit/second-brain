@@ -1,7 +1,10 @@
 ---
-title: "Dunning-Kruger Effect"
+title: "Psychology"
+bookCollapseSection: true
 ---
 
-# Dunning-Kruger Effect
+# Psychology
 
-A cognitive bias in which people assess their cognitive ability as greater than it is.
+## Concepts
+
+- [Dunning Kruger Effect]({<relref "/docs/topic/psychology/dunning-kruger-effect.md">}) - A cognitive bias in which people assess their cognitive ability as greater than it is.

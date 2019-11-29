@@ -89,4 +89,8 @@ the intensification of inner life helped the prisoner to find refugee from his e
 
 as the inner life of the prisoner tended to become more intense, he also experienced the beauty of art and nature as never before => escape mechanism (sunshine, sunset) "How beautiful the world could be"
 
+We were grateful for the smallest of mercies.
+
+A man counted only because he had a prison number. One literally became a number: dead or alive  - that was unimportant; the life a "number" was completely irrelevant 
+
 Post release and liberation

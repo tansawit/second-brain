@@ -1,6 +1,6 @@
 ---
-title: Marketing
+title: "Algorithms"
 bookCollapseSection: true
 ---
 
-# Marketing
+# Algorithms
