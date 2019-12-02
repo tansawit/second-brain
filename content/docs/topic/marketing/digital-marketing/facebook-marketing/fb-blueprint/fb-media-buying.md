@@ -102,3 +102,34 @@ Use: Scaled communications between Page and customer. Re-engagement
 - Messenger gives people and businesses a new way to connect.
 - Use it to connect and communicate instantly.
 - Messenger ads help you reach more people and personalize customer interactions.
+
+#### Introduction to Facebook
+
+##### Profiles and Pages
+
+###### Profile
+
+Where you can share information and updates about yourself, including things like interests, photos, location, and hometown. People can connect with others through their profiles.
+
+You control the content of your profile and who sees the things you share.
+
+###### Page
+
+A place that lets people, public figures, business and other entities create a presence on Facebook and connect with the platform's community. It acts as the business's presence on Facebook, and where you can list your products, services, events and more.
+
+You must have a prole in der to create a Page.
+
+Benefits:
+
+- Free and simple
+- Provide free tools to help achieve business goals
+- Enable connecting with customers
+- Enable advertisement on Facebook 
+- Insights on you and your competition's Page, as well as the people who visits them.
+- Provides people information about your business
+
+##### Key Takeaways
+
+- Facebook helps businesses connect and share with the right audience online.
+- A profile is for an individual, a Page is for a business
+- You can reach a wider audience by running ads on your Page
