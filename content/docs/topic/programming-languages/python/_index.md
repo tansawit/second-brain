@@ -18,6 +18,7 @@ bookCollapseSection: true
 Can assign variables to function, which can then be passed onto other functions
 
 ### Default Values
+
 ```python
 def add_number(x, y, z=None)    # z is the optional/default value
     if (x == None):

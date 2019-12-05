@@ -7,6 +7,8 @@ weight: 1
 
 # Beating the Averages
 
+[(Original Article)](http://www.paulgraham.com/avg.html)
+
 ## Choosing Technology for your Startups
 
 When choosing technology, ignore what other people are doing, and consider only what will work the best. If you bet on the wrong technology, your competitors will crush you.

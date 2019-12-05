@@ -1,7 +1,6 @@
 ---
 title: "Nine Business Models and the Metrics Investors Want"
 bookToC: 3
-bookHidden: true
 ---
 
 # Nine Business Models and the Metrics Investors Want

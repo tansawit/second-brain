@@ -7,6 +7,8 @@ weight: 1
 
 # Programming Bottom Up - Paul Graham
 
+[(Original Article)](http://www.paulgraham.com/progbot.html)
+
 ## Disclaimer
 
 In the original article, the concept of bottom-up programming is written in the concept of Lisp programming, a topic in which I have very little knowledge or experience in as if this writing. Therefore the summary below will mainly focus on the general concepts presented and might exclude any Lisp-specific mentions or points.

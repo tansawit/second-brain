@@ -3,7 +3,6 @@ title: "How to Evaluate Your Startup Ideas"
 weight: 1
 # bookFlatSection: false
 # bookShowToC: true
-bookHidden: true
 ---
 
 # How to Evaluate Your Startup Ideas

@@ -3,7 +3,6 @@ title: "How to Plan an MVP"
 bookToC: 2
 # bookFlatSection: false
 # bookShowToC: true
-bookHidden: true
 ---
 
 # How to Plan an MVP
